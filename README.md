@@ -8,7 +8,10 @@
   <li>Azure, Databricks, AWS</li>
 </div>
 
-<h4>Tell me about: <em>ReACT Agents, LLM, RAG, Machine Learning, OpenCV</em></h4>
+<h4>
+  Tell me about: <em>ReACT Agents, LLM, RAG, Machine Learning, OpenCV</em>
+</h4>
+
 ###
 
 <div align="left">
