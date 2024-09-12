@@ -5,7 +5,7 @@
 <div align="left">
   <li>Python, Go, Typescript, React, </li>
   <li>Handle 1.4M customers (Oracle, SQL Server)</li>
-  <li>Azure, Databricks, AWS</li>
+  <li>Azure, AWS, Databricks, Snowflake</li>
 </div>
 
 <h4>
