@@ -5,12 +5,15 @@
 <div align="left">
   <li>Python, Go, Typescript, React, HTML/CSS, C/C++ </li>
   <li>Handle 1.4M customers (Oracle, SQL Server)</li>
+  <li>Tensorflow, PySpark, PyTorch, OpenCV</li>
   <li>Azure, AWS, Databricks, Snowflake</li>
 </div>
 
 <h4>
   Tell me about: <em>ReACT Agents, LLM, RAG, Machine Learning, OpenCV</em>
 </h4>
+
+<a href="https://mariotoribi0.github.io">https://mariotoribi0.github.io/</a>
 
 ###
 
