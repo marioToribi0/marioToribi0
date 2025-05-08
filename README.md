@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <li>Python, Go, Typescript, React, HTML/CSS, C/C++ </li>
+  <li>Python, Go, Typescript, React, React Native, C/C++ </li>
   <li>Handle 1.4M customers (Oracle, SQL Server)</li>
   <li>Tensorflow, PySpark, PyTorch, OpenCV</li>
   <li>Azure, AWS, Databricks, Snowflake</li>
