@@ -13,8 +13,6 @@
   Tell me about: <em>ReACT Agents, LLM, RAG, Machine Learning, OpenCV</em>
 </h4>
 
-<a href="https://mariotoribi0.github.io">https://mariotoribi0.github.io/</a>
-
 ###
 
 <div align="left">
