@@ -1,7 +1,3 @@
-<h2 align="center">Hi 👋! I'm a Mario, Full Stack Data Scientist</h2>
-
-###
-
 <div align="left">
   <li>Python, Go, Typescript, React, React Native, C/C++ </li>
   <li>Handle 1.4M customers (Oracle, SQL Server)</li>
